@@ -1,10 +1,3 @@
-/**
- * SyntaxHighlighter
- * http://alexgorbatchev.com/
- *
- * CUDA brush by Harry Denholm, ishani.org; built for the CodeSnippet Gadget for Google Wave
- *
- */
 SyntaxHighlighter.brushes.CUDA = function()
 {
   var keywords = 'volatile extern void unsigned int float char bool template uint uchar const ' +
